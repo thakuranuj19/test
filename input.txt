@@ -1,0 +1,9 @@
+Create_parking_lot 3
+Park KA-01-HH-1234 White driver_age 26
+Park KA-01-HH-2231 Black driver_age 18
+Park KA-01-HH-1231 Black driver_age 18
+Slot_numbers_for_driver_of_age 18
+Slot_number_for_car_with_number KA-01-HH-1234
+Status
+Leave 2
+Park KA-01-HH-4234 White driver_age 39
